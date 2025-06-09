@@ -26,6 +26,8 @@ Hoewel het Pelckmans Portaal een krachtig leerplatform is, schiet het op vlak va
 
 📚 Geoptimaliseerde layout – Duidelijkere structuur voor oefeningen en opdrachten
 
+🎮 natuurkijk niet zonder een beetje fun! chess,tetris meschien binnen kort meer!
+
 # 🧑‍💻 Voor wie?
 Leerlingen die hun leeromgeving overzichtelijker en aangenamer willen maken
 
